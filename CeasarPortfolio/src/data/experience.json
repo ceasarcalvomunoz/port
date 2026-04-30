@@ -1,0 +1,15 @@
+[
+  {
+    "date": "July 2025 - November 2025",
+    "title": "Full Stack Engineer",
+    "company": "4Geeks",
+    "description": "Designed and developed a comprehensive management system using React, Node.js, Express.js, and PostgreSQL. Implemented client-side and server-side validation reducing data entry errors by 35%. Followed Agile practices in a distributed remote team, meeting all sprint deadlines.",
+    "link": "https://4geeks.io/en/"
+  },
+  {
+    "date": "November 2022 - November 2024",
+    "title": "Software Developer",
+    "company": "National University of Costa Rica",
+    "description": "Led the development of a comprehensive academic management platform with React.js and Node.js/Express.js. Optimized PostgreSQL queries improving performance by 40% through indexing strategies and query analysis. Automated administrative workflows using Python and Node.js, reducing manual workload by 60%. Implemented Docker to standardize development environments and CI/CD pipelines for consistent deployments. Developed advanced search modules, recycle bin system, PDF report generation, and customizable user preferences."
+  }
+]

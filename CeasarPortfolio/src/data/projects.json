@@ -1,0 +1,10 @@
+[
+  {
+    "title": "Academic Management Platform",
+    "description": "Comprehensive system for managing curricula, courses, users, faculty members, and institutional reports. Built with React.js, Node.js/Express.js, and PostgreSQL. Features advanced search modules, role-based access control, PDF report generation, and 40% performance optimization.",
+    "github": "https://github.com/brayrpgs/EduPlanPro-Frontend",
+    "link": "https://youtu.be/67fDpJvoWjg",
+    "image": "/projects/EduplanPro.png",
+    "tags": []
+  }
+]
